@@ -6,7 +6,7 @@
     "type": "project",
     "repositories": [
         {
-             "type": "composer", 
+             "type": "composer",
              "url": "https://packagist.org"
         },
         { "packagist": false }
@@ -57,6 +57,7 @@
         ]
     },
     "config": {
-        "preferred-install": "dist"
+        "preferred-install": "dist",
+        "secure-http": false
     }
 }
