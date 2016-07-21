@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers\Admin;
+namespace app\Http\Controllers\Admin;
 
 use App\ArticleCategory;
 use App\Language;
